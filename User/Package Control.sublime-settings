@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"AngularJS Snippets",
+		"AutoFileName",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"BufferScroll",
+		"Color Scheme - Chromodynamics",
+		"Colorcoder",
+		"ColorPicker",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"Gist",
+		"GitGutter-Edge",
+		"Goto-CSS-Declaration",
+		"Gutter Color",
+		"LiveReload",
+		"Package Control",
+		"Predawn",
+		"Predawn Monokai",
+		"Sass",
+		"SideBarEnhancements",
+		"Tag"
+	]
+}
